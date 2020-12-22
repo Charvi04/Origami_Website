@@ -1,0 +1,89 @@
+body{
+    background-image: url(https://background-tiles.com/overview/mixed-colors/patterns/large/1100.png);
+}
+.header{
+    
+    font-size: medium;
+    color: black;
+    background-color: white;
+    border: dashed;
+    text-align: center;
+    margin-left: 400px;
+    margin-right: 400px;
+}
+.all{
+    font-family: Comic Sans MS;
+}
+.inst{
+    background-color: ivory;
+    text-align: center;
+    margin-left: 250px;
+    margin-right: 250px;
+    border:dashed;
+    margin-top: 20px;
+}
+.halloween img{
+    margin-top: 40px;
+    margin-left: 350px;
+    border:outset;
+}
+.halloween h2{
+    background-color: ivory;
+    text-align: center;
+    margin-left: 500px;
+    margin-right: 500px;
+    border:dashed;
+    margin-top: 20px;
+}
+.diwali img{
+    margin-top: 40px;
+    margin-left: 350px;
+    border:outset;
+}
+.diwali h2{
+    background-color: ivory;
+    text-align: center;
+    margin-left: 500px;
+    margin-right: 500px;
+    border:dashed;
+    margin-top: 20px;
+}
+.thanks img{
+    margin-top: 40px;
+    margin-left: 350px;
+    border:outset;
+}
+.thanks h2{
+    background-color: ivory;
+    text-align: center;
+    margin-left: 450px;
+    margin-right: 450px;
+    border:dashed;
+    margin-top: 20px;
+}
+.time img{
+    margin-top: 40px;
+    margin-left: 350px;
+    border:outset;
+}
+.time h2{
+    background-color: ivory;
+    text-align: center;
+    margin-left: 450px;
+    margin-right: 450px;
+    border:dashed;
+    margin-top: 20px;
+}
+.christ img{
+    margin-top: 40px;
+    margin-left: 350px;
+    border:outset;
+}
+.christ h2{
+    background-color: ivory;
+    text-align: center;
+    margin-left: 500px;
+    margin-right: 500px;
+    border:dashed;
+    margin-top: 20px;
+}
